@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|c:\\users\\basel\\desktop\\basel project\\electronic shop\\electronic shop\\mainpages\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\electronics-store-website\\electronic shop\\electronic shop\\managerspages\\managerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\managerspages\\managerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\electronics-store-website\\electronic shop\\electronic shop\\userspages\\viewdevice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\userspages\\viewdevice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\electronic shop\\userspages\\viewdevice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\userspages\\viewdevice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\electronic shop\\mainpages\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\mainpages\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\electronic shop\\appcode\\classpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\electronic shop\\userspages\\result.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\userspages\\result.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\electronic shop\\appcode\\classpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\appcode\\classpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\electronic shop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\electronic shop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8379D2DF-2907-42AA-BD03-E318E0B457E6}|Electronic Shop\\Electronic Shop.csproj|solutionrelative:electronic shop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -27,23 +43,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.aspx",
-              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\MainPages\\Main.aspx",
-              "RelativeDocumentMoniker": "Electronic Shop\\MainPages\\Main.aspx",
-              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\MainPages\\Main.aspx",
-              "RelativeToolTip": "Electronic Shop\\MainPages\\Main.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-16T15:16:10.659Z",
+              "Title": "ManagerPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\ManagersPages\\ManagerPage.aspx.cs",
+              "RelativeDocumentMoniker": "Electronic Shop\\ManagersPages\\ManagerPage.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\ManagersPages\\ManagerPage.aspx.cs",
+              "RelativeToolTip": "Electronic Shop\\ManagersPages\\ManagerPage.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:15:48.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ViewDevice.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\ViewDevice.aspx.cs",
+              "RelativeDocumentMoniker": "Electronic Shop\\UsersPages\\ViewDevice.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\ViewDevice.aspx.cs",
+              "RelativeToolTip": "Electronic Shop\\UsersPages\\ViewDevice.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:47:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewDevice.aspx",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\ViewDevice.aspx",
+              "RelativeDocumentMoniker": "Electronic Shop\\UsersPages\\ViewDevice.aspx",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\ViewDevice.aspx",
+              "RelativeToolTip": "Electronic Shop\\UsersPages\\ViewDevice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T19:47:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.aspx",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\Result.aspx",
+              "RelativeDocumentMoniker": "Electronic Shop\\UsersPages\\Result.aspx",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\UsersPages\\Result.aspx",
+              "RelativeToolTip": "Electronic Shop\\UsersPages\\Result.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T19:47:40.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.aspx",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\MainPages\\Main.aspx",
+              "RelativeDocumentMoniker": "Electronic Shop\\MainPages\\Main.aspx",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\MainPages\\Main.aspx",
+              "RelativeToolTip": "Electronic Shop\\MainPages\\Main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T15:16:10.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClassPage.cs",
-              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\AppCode\\ClassPage.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\AppCode\\ClassPage.cs",
               "RelativeDocumentMoniker": "Electronic Shop\\AppCode\\ClassPage.cs",
-              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\AppCode\\ClassPage.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\AppCode\\ClassPage.cs",
               "RelativeToolTip": "Electronic Shop\\AppCode\\ClassPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\packages.config",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\packages.config",
               "RelativeDocumentMoniker": "Electronic Shop\\packages.config",
-              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel Project\\Electronic Shop\\Electronic Shop\\packages.config",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Electronics-Store-Website\\Electronic Shop\\Electronic Shop\\packages.config",
               "RelativeToolTip": "Electronic Shop\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
