@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ManagerMaster.master.cs" Inherits="Electronic_Shop.ManagerMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 137px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body style="background-color:gold">
+    <form id="form1" runat="server">
+        <div>
+            <div id="header" style="border-style:dotted; border-color:yellow; background-color:blue" class="auto-style1">
+                <br />
+                <asp:Image ID="Image1" runat="server" Height="100px" ImageUrl="~/Pictures/Logo.png" Width="130px" />
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

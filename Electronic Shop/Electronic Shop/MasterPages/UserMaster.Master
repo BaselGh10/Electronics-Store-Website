@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="UserMaster.master.cs" Inherits="Electronic_Shop.UserMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 122px;
+        }
+        .auto-style2 {
+            width: 100%;
+        }
+        .auto-style3 {
+            text-align: center;
+            width: 506px;
+        }
+        .auto-style4 {
+            width: 410px;
+            text-align: center;
+        }
+        .auto-style5 {
+            text-align: center;
+        }
+        .auto-style6 {
+            height: 213px;
+            text-align: center;
+        }
+        .auto-style7 {
+            color: #FFD700;
+            font-size: xx-large;
+        }
+    </style>
+</head>
+<body style="background-color:gold; height: 140px;">
+    <form id="form1" runat="server">
+        <div>
+            <div id="header" style="border-style:dotted; border-color:yellow;background-color:blue" class="auto-style1">
+                <table class="auto-style2">
+                    <tr>
+                        <td class="auto-style4">
+                            <asp:Button ID="Button1" runat="server" BackColor="Gold" Font-Bold="True" Font-Names="Baskerville Old Face" Font-Size="Large" ForeColor="Blue" Text="My Orders" PostBackUrl="~/UsersPages/Orders.aspx" />
+                        </td>
+                        <td class="auto-style3">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:Image ID="Image1" runat="server" Height="112px" ImageUrl="~/Pictures/Logo.png" Width="151px" />
+                        </td>
+                        <td class="auto-style5">
+                            <asp:LinkButton ID="LinkButton1" runat="server" Font-Bold="True" Font-Names="Baskerville Old Face" Font-Size="Large" Font-Underline="False" ForeColor="Gold" OnClick="LinkButton1_Click" PostBackUrl="~/UsersPages/ChangePassword.aspx">Change My Password</asp:LinkButton>
+                            <br />
+                            <br />
+                            <asp:LinkButton ID="LinkButton2" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Gold" PostBackUrl="~/UsersPages/DeleteAccount.aspx">Delete My Account</asp:LinkButton>
+                        </td>
+                    </tr>
+                </table>
+                &nbsp;</div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    &nbsp;</p>
+                <br />
+            </asp:ContentPlaceHolder>
+            <div id="footer" style="background-color:blue" class="auto-style6">
+                <br />
+                <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Names="Baskerville Old Face" Font-Size="X-Large" ForeColor="Gold" Text="Hurry up before your product is sold !!"></asp:Label>
+                <br />
+                <br />
+                <span class="auto-style7"><strong>***<br />
+                <asp:Label ID="Label2" runat="server" Font-Names="Baskerville Old Face" Font-Size="X-Large" Text="You will pay by cash when your device arrives !"></asp:Label>
+                </strong></span></div>
+        </div>
+    </form>
+</body>
+</html>
